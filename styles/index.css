@@ -23,7 +23,10 @@ body {
 }
 
 .deckContainer {
-
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: start;
 }
 
 .footer {
