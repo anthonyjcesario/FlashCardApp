@@ -6,4 +6,16 @@ body {
 .head {
     display: flex;
     justify-content: start;
+    align-items: center;
+    gap: 25px;
+    color: rgb(37, 37, 37);
+}
+
+#createNewButton {
+    height: 40px;
+    width: 40px;
+    border: none;
+    border-radius: 50%;
+    background-color: rgb(37, 37, 37);
+    color: white;
 }
