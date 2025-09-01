@@ -3,6 +3,7 @@ body {
     margin: 0;
     padding: 2%;
     font-family: sans-serif;
+    background-color: rgb(201, 201, 201);
 }
 
 .head {
@@ -51,4 +52,13 @@ body {
 
     border-top-right-radius: 25px;
     border-top-left-radius: 25px;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.menuOption {
+    color: white;
+    font-weight: lighter;
 }
