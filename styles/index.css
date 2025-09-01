@@ -29,6 +29,16 @@ body {
     justify-content: start;
 }
 
+.deck {
+    height: 20vh;
+    width: 75vw;
+    background-color: red;
+    border-radius: 25px;
+    padding: 1%;
+    margin: 2%;
+    margin-left: 0;
+}
+
 .footer {
     position: fixed;
     bottom: 0;
